@@ -1,4 +1,4 @@
 # NuVault
 Proxy Re-Encrypted Secret Sharing
 
-A VueJS frontend to allow a user to encrypt secrets they can share with other agents without decrypting or exposing either parties private secret keys. Encrypted data views are stored in IPFS for later decrypted consumption.
+We provide a trustless, decentralized secret management solution providing cryptographic access control to securely share sensitive data without a pre-shared key.
